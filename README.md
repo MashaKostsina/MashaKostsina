@@ -3,11 +3,11 @@
 <h3 align="center">A passionate QA Engeneer</h3>
 <img align="right" alt="Testing" width="400" src="https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg"
 
-- 🌱 I’m currently learning **Testing**
+🌱 I’m currently learning **Testing**
 
-- 📫 How to reach me **kostsinamaryia@gmail.com**
+📫 How to reach me **kostsinamaryia@gmail.com**
 
-- 📄 Know about my experiences [https://mashakostsina.github.io/](https://mashakostsina.github.io/)
+📄 Know about my experiences [https://mashakostsina.github.io/](https://mashakostsina.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
