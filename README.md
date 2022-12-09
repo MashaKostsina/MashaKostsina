@@ -1,7 +1,7 @@
 [![MasterHead](https://nt.ua/Media/Default/img/qa_testing1ru.jpg)](https://mashakostsina.github.io/)
 <h1 align="center">Hi 👋, I'm Maryia Kostsina</h1>
 <h3 align="center">A passionate QA Engeneer</h3>
-<img align="right" alt="Testing" width="400" src="https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg"
+<img align="right" alt="Testing" width="350" src="https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg"
 - 🌱 I’m currently learning **Testing**
 
 - 📫 How to reach me **kostsinamaryia@gmail.com**
